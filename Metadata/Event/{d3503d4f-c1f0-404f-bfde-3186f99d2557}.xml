@@ -59,7 +59,7 @@
 			<destination>{3f45ef53-5366-4c66-9ad4-283aa454987b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{2620f08c-f6da-4c3f-82f6-e5057cfc0083}</destination>
+			<destination>{cc919353-6152-49a2-b20c-c7b8b897fb80}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{3762baa7-0d9e-45e1-925a-73b8efd4f715}" />
@@ -117,6 +117,7 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{ab26ff90-d5b3-41a0-9ef6-e7c168545b01}">
 		<relationship name="effects">
+			<destination>{5537f65e-c347-418f-ad32-99873a781d28}</destination>
 			<destination>{141af475-23f0-453d-9f83-bac11f69df4a}</destination>
 		</relationship>
 	</object>
@@ -133,6 +134,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e082e944-6f0b-4883-9a33-13eec945f6ce}" />
+	<object class="GainEffect" id="{5537f65e-c347-418f-ad32-99873a781d28}">
+		<property name="gain">
+			<value>6</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{141af475-23f0-453d-9f83-bac11f69df4a}" />
 	<object class="MixerBusFader" id="{bfd452b3-e273-4b02-818b-35d4a4445035}" />
 </objects>
