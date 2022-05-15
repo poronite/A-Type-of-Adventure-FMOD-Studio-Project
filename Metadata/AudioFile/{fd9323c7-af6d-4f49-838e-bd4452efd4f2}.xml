@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fd9323c7-af6d-4f49-838e-bd4452efd4f2}">
+		<property name="assetPath">
+			<value>Fight/Dash.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.376780045351474</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{18e74776-ecc5-4047-8d75-1ca243b79943}</destination>
+		</relationship>
+	</object>
+</objects>
