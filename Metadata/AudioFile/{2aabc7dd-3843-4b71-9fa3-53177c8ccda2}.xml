@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2aabc7dd-3843-4b71-9fa3-53177c8ccda2}">
 		<property name="assetPath">
-			<value>SFX/UI/Gameplay/CutsceneChangeSFX.wav</value>
+			<value>SFX/UI/Gameplay/Cutscene_Change_SFX.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

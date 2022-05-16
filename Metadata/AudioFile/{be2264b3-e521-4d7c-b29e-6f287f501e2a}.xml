@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{be2264b3-e521-4d7c-b29e-6f287f501e2a}">
 		<property name="assetPath">
-			<value>Fight/Crouch.wav</value>
+			<value>SFX/Combat/Crouch_SFX.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
