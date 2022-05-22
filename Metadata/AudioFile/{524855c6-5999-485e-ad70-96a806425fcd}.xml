@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{524855c6-5999-485e-ad70-96a806425fcd}">
 		<property name="assetPath">
-			<value>Bird Chips2.wav</value>
+			<value>AMB/Bird_Chips2_AMB.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

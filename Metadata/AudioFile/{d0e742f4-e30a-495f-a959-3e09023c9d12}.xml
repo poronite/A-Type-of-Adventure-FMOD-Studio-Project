@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d0e742f4-e30a-495f-a959-3e09023c9d12}">
 		<property name="assetPath">
-			<value>Crickets2.wav</value>
+			<value>AMB/Crickets2_AMB.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{85353a02-2795-48bf-bb2e-04a31ead49c4}">
 		<property name="assetPath">
-			<value>Bushes2.wav</value>
+			<value>AMB/Bushes2_AMB.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

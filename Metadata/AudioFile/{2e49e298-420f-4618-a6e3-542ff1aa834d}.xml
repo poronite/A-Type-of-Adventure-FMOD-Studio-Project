@@ -2,10 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2e49e298-420f-4618-a6e3-542ff1aa834d}">
 		<property name="assetPath">
-			<value>River.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>AMB/River_AMB.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
