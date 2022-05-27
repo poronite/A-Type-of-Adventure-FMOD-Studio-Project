@@ -232,6 +232,12 @@
 		<property name="maximumTimeBetweenSounds">
 			<value>9000</value>
 		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
+		</property>
 		<relationship name="sound">
 			<destination>{5ffcecad-3d27-4f58-ad99-f3f64d5318fe}</destination>
 		</relationship>
@@ -249,6 +255,12 @@
 		<property name="maximumTimeBetweenSounds">
 			<value>9000</value>
 		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
+		</property>
 		<relationship name="sound">
 			<destination>{1292ca72-b4f4-41b1-8aae-adfdd242af56}</destination>
 		</relationship>
@@ -265,6 +277,12 @@
 		</property>
 		<property name="maximumTimeBetweenSounds">
 			<value>9000</value>
+		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
 		</property>
 		<relationship name="sound">
 			<destination>{b4ec086b-2d97-4e24-856f-4f17e949746d}</destination>
@@ -300,6 +318,12 @@
 		<property name="spawnRate">
 			<value>75</value>
 		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
+		</property>
 		<property name="pitchRandomization">
 			<value>1</value>
 		</property>
@@ -322,6 +346,12 @@
 		</property>
 		<property name="spawnRate">
 			<value>75</value>
+		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
 		</property>
 		<property name="pitchRandomization">
 			<value>1</value>
@@ -346,6 +376,12 @@
 		<property name="spawnRate">
 			<value>75</value>
 		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
+		</property>
 		<property name="pitchRandomization">
 			<value>1</value>
 		</property>
@@ -368,6 +404,12 @@
 		</property>
 		<property name="spawnRate">
 			<value>75</value>
+		</property>
+		<property name="minimumScatterDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumScatterDistance">
+			<value>0</value>
 		</property>
 		<property name="pitchRandomization">
 			<value>1</value>
