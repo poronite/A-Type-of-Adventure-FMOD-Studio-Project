@@ -16,9 +16,15 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{d957e2b8-5268-4dd8-8660-e783e9ddf575}">
 		<relationship name="effects">
+			<destination>{0874e9c0-7ad4-47e0-9cd1-308b53fca4b3}</destination>
 			<destination>{4ddf176f-253d-45d7-b284-09e635a5ea1d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ca51cc26-3213-4dfc-bd4f-e4927fd183e4}" />
+	<object class="MultibandEqEffect" id="{0874e9c0-7ad4-47e0-9cd1-308b53fca4b3}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{4ddf176f-253d-45d7-b284-09e635a5ea1d}" />
 </objects>
