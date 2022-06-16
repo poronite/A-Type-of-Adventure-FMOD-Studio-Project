@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7ad60d30-dc2e-4040-a5e6-a56f45acecd6}">
+		<property name="assetPath">
+			<value>AMB/MagicForest/MagicForest_Fairy4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.3086041666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{18e74776-ecc5-4047-8d75-1ca243b79943}</destination>
+		</relationship>
+	</object>
+</objects>
