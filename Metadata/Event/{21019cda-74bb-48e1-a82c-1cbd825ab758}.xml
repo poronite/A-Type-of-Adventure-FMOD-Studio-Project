@@ -110,9 +110,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{3474af00-c7bc-4bc7-8c41-b763251769ad}">
-		<property name="volume">
-			<value>-10</value>
-		</property>
 		<property name="name">
 			<value>Leaves Rustling</value>
 		</property>
@@ -135,9 +132,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{995bc890-0198-48eb-a809-b580f6b44802}">
-		<property name="volume">
-			<value>-10</value>
-		</property>
 		<property name="name">
 			<value>Birds</value>
 		</property>
@@ -187,7 +181,7 @@
 	<object class="MixerBusPanner" id="{ff5bf506-03e8-4728-8249-9849524b7016}" />
 	<object class="GainEffect" id="{770933e6-b6ea-4f91-a4d0-f7a822b811e3}">
 		<property name="gain">
-			<value>10</value>
+			<value>-5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{0eff547c-63df-444d-9cf9-894adc63a47e}" />
