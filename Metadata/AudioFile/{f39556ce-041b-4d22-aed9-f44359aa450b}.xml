@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f39556ce-041b-4d22-aed9-f44359aa450b}">
+		<property name="assetPath">
+			<value>SFX/Combat/Attack Actions/Combat_Punch1_SFX.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26510416666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{18e74776-ecc5-4047-8d75-1ca243b79943}</destination>
+		</relationship>
+	</object>
+</objects>

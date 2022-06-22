@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f1543ab5-8fee-44c4-9461-b4e9d170f737}">
+		<property name="assetPath">
+			<value>SFX/Combat/Attack Actions/Combat_Shield_SFX.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.41929166666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{18e74776-ecc5-4047-8d75-1ca243b79943}</destination>
+		</relationship>
+	</object>
+</objects>
