@@ -28,7 +28,6 @@
 		<relationship name="profilerTracks">
 			<destination>{1437a066-f453-4241-bb2c-b0a744315ef6}</destination>
 			<destination>{5f9bfec5-6ccf-4ca4-a03e-7ea2779cbf99}</destination>
-			<destination>{e5871143-6a75-48b5-8208-72678b87a35c}</destination>
 			<destination>{cf0a3815-6fac-4638-b040-666ed087f631}</destination>
 			<destination>{5edcb70d-70df-49b0-9e2c-c5b54bac0260}</destination>
 		</relationship>
@@ -62,11 +61,6 @@
 	<object class="ProfilerTrack" id="{5f9bfec5-6ccf-4ca4-a03e-7ea2779cbf99}">
 		<relationship name="objectBeingTracked">
 			<destination>{d3503d4f-c1f0-404f-bfde-3186f99d2557}</destination>
-		</relationship>
-	</object>
-	<object class="ProfilerTrack" id="{e5871143-6a75-48b5-8208-72678b87a35c}">
-		<relationship name="objectBeingTracked">
-			<destination>{d0f76493-5312-439c-a691-7274fbf11e24}</destination>
 		</relationship>
 	</object>
 	<object class="ProfilerTrack" id="{cf0a3815-6fac-4638-b040-666ed087f631}">
